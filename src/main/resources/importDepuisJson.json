@@ -1,0 +1,16 @@
+[
+  {
+    "nom": "pp",
+    "nomDeveloppeur": "test",
+    "anneeDeSortie": 2017,
+    "plateforme": "telephone-0rdinateur",
+    "genre": "guerre"
+  },
+  {
+    "nom": "pp",
+    "nomDeveloppeur": "test2",
+    "anneeDeSortie": 2018,
+    "plateforme": "ordinateur",
+    "genre": "RTS"
+  }
+  ]

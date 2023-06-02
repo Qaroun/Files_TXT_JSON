@@ -1,0 +1,6 @@
+free-fire2	Garena	2017	telephone-0rdinateur	guerre
+Candy-Crust2	King	2012	telephone-ordinateur	puzzle-game
+Among-us2	InnerSloth	2018	ordinateur	RTS
+tst2	dev1	2001	pal1	genre1
+r62	bader	2023	desktop	action
+salam4	doha3	20024	phone	religion

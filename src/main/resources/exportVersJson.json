@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "nom": "aaaa",
+    "nomDeveloppeur": "aaaa",
+    "anneeDeSortie": 1234,
+    "plateforme": "aaaa",
+    "genre": "aaaa"
+  },
+  {
+    "id": 2,
+    "nom": "test",
+    "nomDeveloppeur": "test",
+    "anneeDeSortie": 2000,
+    "plateforme": "test",
+    "genre": "test"
+  },
+  {
+    "id": 3,
+    "nom": "eps",
+    "nomDeveloppeur": "hajar",
+    "anneeDeSortie": 2023,
+    "plateforme": "playstore",
+    "genre": "femme"
+  },
+  {
+    "id": 4,
+    "nom": "aaaa",
+    "nomDeveloppeur": "test",
+    "anneeDeSortie": 2023,
+    "plateforme": "aazz",
+    "genre": "rtty"
+  },
+  {
+    "id": 5,
+    "nom": "hajar",
+    "nomDeveloppeur": "hajar",
+    "anneeDeSortie": 2023,
+    "plateforme": "hajra",
+    "genre": "hajar"
+  },
+  {
+    "id": 6,
+    "nom": "hajar",
+    "nomDeveloppeur": "hajar",
+    "anneeDeSortie": 2023,
+    "plateforme": "hajar",
+    "genre": "HAJAE"
+  },
+  {
+    "id": 11,
+    "nom": "achraf",
+    "nomDeveloppeur": "qaroun",
+    "anneeDeSortie": 2001,
+    "plateforme": "playstore",
+    "genre": "homme"
+  },
+  {
+    "id": 12,
+    "nom": "test",
+    "nomDeveloppeur": "test",
+    "anneeDeSortie": 2000,
+    "plateforme": "test",
+    "genre": "test"
+  },
+  {
+    "id": 13,
+    "nom": "free-fire2",
+    "nomDeveloppeur": "Garena",
+    "anneeDeSortie": 2017,
+    "plateforme": "telephone-0rdinateur",
+    "genre": "guerre"
+  },
+  {
+    "id": 14,
+    "nom": "Among-us2",
+    "nomDeveloppeur": "InnerSloth",
+    "anneeDeSortie": 2018,
+    "plateforme": "ordinateur",
+    "genre": "RTS"
+  },
+  {
+    "id": 15,
+    "nom": "tst2",
+    "nomDeveloppeur": "dev1",
+    "anneeDeSortie": 2001,
+    "plateforme": "pal1",
+    "genre": "genre1"
+  },
+  {
+    "id": 16,
+    "nom": "r62",
+    "nomDeveloppeur": "bader",
+    "anneeDeSortie": 2023,
+    "plateforme": "desktop",
+    "genre": "action"
+  },
+  {
+    "id": 17,
+    "nom": "salam2",
+    "nomDeveloppeur": "doha",
+    "anneeDeSortie": 2002,
+    "plateforme": "phone",
+    "genre": "religion"
+  },
+  {
+    "id": 18,
+    "nom": "pp",
+    "nomDeveloppeur": "test",
+    "anneeDeSortie": 2017,
+    "plateforme": "telephone-0rdinateur",
+    "genre": "guerre"
+  },
+  {
+    "id": 19,
+    "nom": "pp",
+    "nomDeveloppeur": "test2",
+    "anneeDeSortie": 2018,
+    "plateforme": "ordinateur",
+    "genre": "RTS"
+  },
+  {
+    "id": 20,
+    "nom": "game2",
+    "nomDeveloppeur": "dohi",
+    "anneeDeSortie": 2000,
+    "plateforme": "phone",
+    "genre": "religion"
+  },
+  {
+    "id": 21,
+    "nom": "test",
+    "nomDeveloppeur": "test",
+    "anneeDeSortie": 2000,
+    "plateforme": "test",
+    "genre": "test"
+  },
+  {
+    "id": 22,
+    "nom": "test",
+    "nomDeveloppeur": "test",
+    "anneeDeSortie": 2023,
+    "plateforme": "test",
+    "genre": "test"
+  },
+  {
+    "id": 23,
+    "nom": "free-fire2",
+    "nomDeveloppeur": "Garena",
+    "anneeDeSortie": 2017,
+    "plateforme": "telephone-0rdinateur",
+    "genre": "guerre"
+  },
+  {
+    "id": 24,
+    "nom": "Among-us2",
+    "nomDeveloppeur": "InnerSloth",
+    "anneeDeSortie": 2018,
+    "plateforme": "ordinateur",
+    "genre": "RTS"
+  },
+  {
+    "id": 25,
+    "nom": "tst2",
+    "nomDeveloppeur": "dev1",
+    "anneeDeSortie": 2001,
+    "plateforme": "pal1",
+    "genre": "genre1"
+  },
+  {
+    "id": 26,
+    "nom": "r62",
+    "nomDeveloppeur": "bader",
+    "anneeDeSortie": 2023,
+    "plateforme": "desktop",
+    "genre": "action"
+  },
+  {
+    "id": 27,
+    "nom": "salam2",
+    "nomDeveloppeur": "doha",
+    "anneeDeSortie": 2002,
+    "plateforme": "phone",
+    "genre": "religion"
+  },
+  {
+    "id": 28,
+    "nom": "pp",
+    "nomDeveloppeur": "test",
+    "anneeDeSortie": 2017,
+    "plateforme": "telephone-0rdinateur",
+    "genre": "guerre"
+  },
+  {
+    "id": 29,
+    "nom": "pp",
+    "nomDeveloppeur": "test2",
+    "anneeDeSortie": 2018,
+    "plateforme": "ordinateur",
+    "genre": "RTS"
+  }
+]
